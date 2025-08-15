@@ -1,6 +1,10 @@
 +++
-title = "first post"
-date = "2025-07-26"
+title = "my first entry"
+date = 2025-08-15
+
+[taxonomies]
+tags = ["demo"]
+categories = ["demos"]
 +++
 
-This is my first post.
+My first post here
