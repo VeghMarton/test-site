@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://test-site.homesystems.link/</loc>
+    </url>
+    <url>
+        <loc>https://test-site.homesystems.link/categories/</loc>
+    </url>
+    <url>
+        <loc>https://test-site.homesystems.link/categories/demos/</loc>
+    </url>
+    <url>
+        <loc>https://test-site.homesystems.link/first/</loc>
+        <lastmod>2025-08-15</lastmod>
+    </url>
+    <url>
+        <loc>https://test-site.homesystems.link/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://test-site.homesystems.link/second/</loc>
+        <lastmod>2025-08-15</lastmod>
+    </url>
+    <url>
+        <loc>https://test-site.homesystems.link/tags/</loc>
+    </url>
+    <url>
+        <loc>https://test-site.homesystems.link/tags/demo/</loc>
+    </url>
+    <url>
+        <loc>https://test-site.homesystems.link/tags/demo2/</loc>
+    </url>
+</urlset>
